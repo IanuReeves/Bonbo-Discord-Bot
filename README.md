@@ -48,6 +48,7 @@ Then, I went ahead and created my discord bot (discord couldn't be used in the n
 
 
 <img width="1391" height="728" alt="bot on the server" src="https://github.com/user-attachments/assets/ac590220-becc-49ef-a677-41469e3f37bc" />
+
 <img width="1462" height="803" alt="instance summary" src="https://github.com/user-attachments/assets/86ecb2db-d6b3-4395-b678-0fc7907c02e7" />
 
 Once the bot was one the server, I went over and started up the EC2 Instance, where I connected to a console window, and used nano to place the discord bot key inside of a global, persistent variable
@@ -57,6 +58,8 @@ Once the bot was one the server, I went over and started up the EC2 Instance, wh
 Using Nano, I also inserted the developed code into a file called bot.py, and used CTRL+O, Enter, and CTRL+X to save changes and exit.
 
 # Bot Practical Showcase
+
+<img width="1470" height="660" alt="running in ec2" src="https://github.com/user-attachments/assets/7a79f745-491b-4474-9bf8-8afc3f7245f7" />
 
 <img width="827" height="482" alt="boomer?" src="https://github.com/user-attachments/assets/ccc6f2cd-b805-404d-8035-197dc977692d" />
 
